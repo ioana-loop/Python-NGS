@@ -15,3 +15,8 @@ merged in data from  http://bioinformatics.sdstate.edu/go/ with p-value 0.1
 - Scatter plot with pandas function
 - Barplot for the mean difference differentially expressed genes  (gene control greater than treated)
 
+## Evaluating Which Genes Responded to Treatment
+
+- Data manipulation for smallest (most negative) differential expression differences
+- Data manipulation for largest (most positive) differential expression differences
+
